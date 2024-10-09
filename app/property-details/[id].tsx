@@ -155,7 +155,9 @@ const styles = StyleSheet.create({
     lineHeight: 20,
   },
   bookInspectionButtonContainer: {
-    marginTop: 20,
-    paddingHorizontal: 16,
+    position: "absolute", // Absolute position to make sure it's visible
+    bottom: 20, // Place it above the screen bottom
+    left: 16,
+    right: 16,
   },
 });
