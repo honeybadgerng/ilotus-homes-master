@@ -110,7 +110,7 @@ For more Enquires/Site inspection, kindly click on Book Inspection.`,
   {
     id: "3",
     title: "Yuta",
-    location: "Leki",
+    location: "Lekki",
     images: [
       require("../assets/app_pix/Yuta.jpg"),
       require("../assets/app_pix/Yuta2.jpg"),
